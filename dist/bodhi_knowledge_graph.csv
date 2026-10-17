@@ -29,6 +29,7 @@ subject,predicate,object,confidence
 "There","are","two described",0.95
 "Poland","the","2022 Winter",0.95
 "Kreil,","netherlands:","Kreil hamlet",0.95
+"Anarchist","bombing","campaign 1888–1889:",0.95
 "Mikael","rickfors:","Mikael Rickfors",0.95
 "From","1968,","was the",0.95
 "Sukkwan","island","(film): Sukkwan",0.95
@@ -103,3 +104,5 @@ subject,predicate,object,confidence
 "Karl","malus","fictional mad",0.95
 "Hemionitis:","hemionitis","genus ferns",0.95
 "Its","circumscription","varies",0.95
+"Esha","chawla:","Esha Chawla",0.95
+"She","made","her debut",0.95
