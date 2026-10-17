@@ -28,6 +28,7 @@ MERGE (s:Entity {name: "Tió"}) MERGE (o:Entity {name: "The Tió"}) MERGE (s)-[:
 MERGE (s:Entity {name: "Phydanis:"}) MERGE (o:Entity {name: "genus flea"}) MERGE (s)-[:PHYDANIS]->(o);
 MERGE (s:Entity {name: "There"}) MERGE (o:Entity {name: "two described"}) MERGE (s)-[:ARE]->(o);
 MERGE (s:Entity {name: "Poland"}) MERGE (o:Entity {name: "2022 Winter"}) MERGE (s)-[:THE]->(o);
+MERGE (s:Entity {name: "Kreil,"}) MERGE (o:Entity {name: "Kreil hamlet"}) MERGE (s)-[:NETHERLANDS:]->(o);
 MERGE (s:Entity {name: "Mikael"}) MERGE (o:Entity {name: "Mikael Rickfors"}) MERGE (s)-[:RICKFORS:]->(o);
 MERGE (s:Entity {name: "From"}) MERGE (o:Entity {name: "was the"}) MERGE (s)-[:1968,]->(o);
 MERGE (s:Entity {name: "Sukkwan"}) MERGE (o:Entity {name: "(film): Sukkwan"}) MERGE (s)-[:ISLAND]->(o);
@@ -100,3 +101,5 @@ MERGE (s:Entity {name: "East"}) MERGE (o:Entity {name: "Historic District:"}) ME
 MERGE (s:Entity {name: "Epicillin:"}) MERGE (o:Entity {name: "(INN) penicillin"}) MERGE (s)-[:EPICILLIN]->(o);
 MERGE (s:Entity {name: "Not"}) MERGE (o:Entity {name: "the FDA"}) MERGE (s)-[:APPROVED]->(o);
 MERGE (s:Entity {name: "Karl"}) MERGE (o:Entity {name: "fictional mad"}) MERGE (s)-[:MALUS]->(o);
+MERGE (s:Entity {name: "Hemionitis:"}) MERGE (o:Entity {name: "genus ferns"}) MERGE (s)-[:HEMIONITIS]->(o);
+MERGE (s:Entity {name: "Its"}) MERGE (o:Entity {name: "varies"}) MERGE (s)-[:CIRCUMSCRIPTION]->(o);

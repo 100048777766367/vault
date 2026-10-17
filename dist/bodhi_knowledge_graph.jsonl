@@ -27,6 +27,7 @@
 {"subject": "Phydanis:", "predicate": "phydanis", "object": "genus flea", "confidence": 0.95}
 {"subject": "There", "predicate": "are", "object": "two described", "confidence": 0.95}
 {"subject": "Poland", "predicate": "the", "object": "2022 Winter", "confidence": 0.95}
+{"subject": "Kreil,", "predicate": "netherlands:", "object": "Kreil hamlet", "confidence": 0.95}
 {"subject": "Mikael", "predicate": "rickfors:", "object": "Mikael Rickfors", "confidence": 0.95}
 {"subject": "From", "predicate": "1968,", "object": "was the", "confidence": 0.95}
 {"subject": "Sukkwan", "predicate": "island", "object": "(film): Sukkwan", "confidence": 0.95}
@@ -99,3 +100,5 @@
 {"subject": "Epicillin:", "predicate": "epicillin", "object": "(INN) penicillin", "confidence": 0.95}
 {"subject": "Not", "predicate": "approved", "object": "the FDA", "confidence": 0.95}
 {"subject": "Karl", "predicate": "malus", "object": "fictional mad", "confidence": 0.95}
+{"subject": "Hemionitis:", "predicate": "hemionitis", "object": "genus ferns", "confidence": 0.95}
+{"subject": "Its", "predicate": "circumscription", "object": "varies", "confidence": 0.95}

@@ -28,6 +28,7 @@ subject,predicate,object,confidence
 "Phydanis:","phydanis","genus flea",0.95
 "There","are","two described",0.95
 "Poland","the","2022 Winter",0.95
+"Kreil,","netherlands:","Kreil hamlet",0.95
 "Mikael","rickfors:","Mikael Rickfors",0.95
 "From","1968,","was the",0.95
 "Sukkwan","island","(film): Sukkwan",0.95
@@ -100,3 +101,5 @@ subject,predicate,object,confidence
 "Epicillin:","epicillin","(INN) penicillin",0.95
 "Not","approved","the FDA",0.95
 "Karl","malus","fictional mad",0.95
+"Hemionitis:","hemionitis","genus ferns",0.95
+"Its","circumscription","varies",0.95
