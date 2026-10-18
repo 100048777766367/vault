@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 4,
-    "last_t": 1792275728,
-    "export_count": 107,
-    "quantum_cid": "b5d29c125b132bada9074efe610425e0185ae8df1254780c8efcaade05f0074df48069786f19b2c5aa72211d4c45059d78444367aafef626f7566382d6626872"
+    "generation_epoch": 8,
+    "last_t": 1792274696,
+    "quantum_cid": "9e27ad0809128c9a8efc882ad0f57dda11d0853f4be0c884b0ccc612f34976383479ee87f3a5177b131a3a6657c4eb86bbddb4e4a96e7643a2e9ecc409fdb991",
+    "status": "contract_pure"
 }
