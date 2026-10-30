@@ -1,8 +1,8 @@
 {
-    "generation_epoch": 59,
-    "last_t": 1793308198,
+    "generation_epoch": 60,
+    "last_t": 1793339587,
     "records_refined": 4,
     "active_mines_count": 0,
-    "quantum_cid": "69358729ac494faa18715b48f6479379c4ecbbee8d932af9a4a070fbac7c27d8d7db81fb100294c5cd585af9610f2a2f9d68756144edac6ce86b4a26e5e2d2bb",
+    "quantum_cid": "ffc42f52e661c068efcc04b399170eecb859d59221781fc51082dd56439cbe85d04131bf5b1b1f370cd30d7e3b5b2670989f08ea77cd9511300adeedf1d2d889",
     "status": "batch_certified_for_export"
 }
